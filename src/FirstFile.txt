@@ -1,1 +1,2 @@
 This is the first file.
+Same changes are made to the first file.
